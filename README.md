@@ -1,6 +1,6 @@
 # User_Management_system
 # Documentation for Setting Up a gRPC Server in Go
-##Use it on Cmd.
+# Use it on Cmd Or Bash.
 
 This documentation explains each step and command required to set up a gRPC server in Go. Follow these steps to configure your environment and create a gRPC project with Go.
 
